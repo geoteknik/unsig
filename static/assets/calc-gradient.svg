@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   fill="currentColor"
+   class="bi bi-subtract"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="calc-gradient.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   inkscape:export-filename="icons\calc-gradient.png"
+   inkscape:export-xdpi="216"
+   inkscape:export-ydpi="216"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="28.080903"
+     inkscape:cx="0.60539363"
+     inkscape:cy="6.6059129"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <rect
+     style="fill:#bdc2c8;stroke:none;stroke-width:1.10555"
+     id="rect2"
+     width="2.5"
+     height="2.5"
+     x="1"
+     y="1" />
+  <rect
+     style="fill:#93a5a5;stroke:none;stroke-width:2.21109"
+     id="rect3"
+     width="5"
+     height="5"
+     x="6"
+     y="6" />
+  <rect
+     style="fill:#bdc2c8;stroke:none;stroke-width:1.10555"
+     id="rect4"
+     width="2.5"
+     height="2.5"
+     x="3.5"
+     y="3.5" />
+  <rect
+     style="fill:#93a5a5;stroke:none;stroke-width:1.10555"
+     id="rect5"
+     width="2.5"
+     height="2.5"
+     x="6"
+     y="1" />
+  <rect
+     style="fill:#808e8e;stroke:none;stroke-width:1.10555"
+     id="rect6"
+     width="2.5"
+     height="2.5"
+     x="1"
+     y="8.5" />
+  <path
+     d="M 0,2 C 0,0.8954305 0.8954305,0 2,0 h 8 c 1.104569,0 2,0.8954305 2,2 v 2 c 0,6.084873 0,12 2,12 H 6 C 4.8954305,16 4,15.104569 4,14 V 12 H 2 C 0.8954305,12 0,11.104569 0,10 Z M 2,1 C 1.4477153,1 1,1.4477153 1,2 v 8 c 0,0.552285 0.4477153,1 1,1 h 8 c 0.552285,0 1,-0.447715 1,-1 V 2 C 11,1.4477153 10.552285,1 10,1 Z"
+     id="path1"
+     style="fill:#4383c3"
+     sodipodi:nodetypes="sssscssscssssssssssss" />
+  <path
+     d="m 15.783518,12.952804 a 2.8690027,2.8690027 0 1 1 -5.738005,0 2.8690027,2.8690027 0 0 1 5.738005,0 m -2.68969,-1.255189 a 0.17931336,0.17931336 0 0 0 -0.358626,0 v 1.075876 h -1.075876 a 0.17931296,0.17931296 0 0 0 0,0.358625 h 1.075876 v 1.075876 a 0.17931336,0.17931336 0 0 0 0.358626,0 v -1.075876 h 1.075876 a 0.17931296,0.17931296 0 0 0 0,-0.358625 h -1.075876 z"
+     id="path1-6"
+     style="fill:#eef3f6;stroke-width:0.358624" />
+  <path
+     d="m 11.225,6.553 c -0.192316,-0.096337 -0.424692,-0.058883 -0.577,0.093 l -3.71,4.71 -2.66,-2.772 C 4.0799889,8.4521702 3.8165138,8.4780995 3.648,8.646 L 0.002,13 v 2 c 0,0.552285 0.44771525,1 1,1 h 14 c 0.552285,0 1,-0.447715 1,-1 v -4.5 z"
+     id="path1-1"
+     sodipodi:nodetypes="ccccccsssscc"
+     style="fill:#f0c514" />
+</svg>
